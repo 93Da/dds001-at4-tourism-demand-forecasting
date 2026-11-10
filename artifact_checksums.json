@@ -1,0 +1,11 @@
+{
+  "status": "paper new; experiment outputs inherited from original AT3 archive",
+  "sha256": {
+    "paper.pdf": "2de7bc267b7681120f3a217ea3d629af172ee2dd0eb2df48dc944dd8c93a0d9a",
+    "src/run_experiment.py": "edacb19c6977803e401f1875667f36c8bc2daf0baf267ae7f7136c436fc959a8",
+    "src/prepare_data.py": "8494d7df57d8bc1d752e177739821046e1cbf1a6683fcf9a006889b24f1ec594",
+    "results/test_metrics.csv": "7f11f012fe824fe52d23e8cdc10e2ac2561db12d8b74b34b5c034dd9edbfa211",
+    "results/country_level_metrics.csv": "937a6413d8e77305d7bffb1eda763185b1e609e8796a486463bbe8d9cd8c575d",
+    "data/raw/tour_occ_nim__custom_23540219_spreadsheet.xlsx": "98651b2a762ce844a0fdb4796b90a605d871af5c9c220831dbd28229cbf6b81a"
+  }
+}
