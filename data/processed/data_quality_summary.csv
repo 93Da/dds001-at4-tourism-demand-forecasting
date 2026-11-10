@@ -1,0 +1,16 @@
+series,period,expected_rows,observed,missing,missing_rate
+overnight_stays_total,2015-2025,3564,3495,69,0.01936026936026936
+overnight_stays_total,2015-2021,2268,2218,50,0.02204585537918871
+overnight_stays_total,2022,324,315,9,0.027777777777777776
+overnight_stays_total,2023,324,314,10,0.030864197530864196
+overnight_stays_total,2024-2025,648,648,0,0.0
+overnight_stays_hotels,2015-2025,3564,3528,36,0.010101010101010102
+overnight_stays_hotels,2015-2021,2268,2232,36,0.015873015873015872
+overnight_stays_hotels,2022,324,324,0,0.0
+overnight_stays_hotels,2023,324,324,0,0.0
+overnight_stays_hotels,2024-2025,648,648,0,0.0
+overnight_stays_other_accommodation,2015-2025,3564,3495,69,0.01936026936026936
+overnight_stays_other_accommodation,2015-2021,2268,2218,50,0.02204585537918871
+overnight_stays_other_accommodation,2022,324,315,9,0.027777777777777776
+overnight_stays_other_accommodation,2023,324,314,10,0.030864197530864196
+overnight_stays_other_accommodation,2024-2025,648,648,0,0.0

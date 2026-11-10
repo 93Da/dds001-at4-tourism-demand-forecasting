@@ -1,0 +1,10 @@
+Dataset: Eurostat tour_occ_nim
+Workbook: tour_occ_nim__custom_23540219_spreadsheet.xlsx
+Workbook extracted: 2026-10-23; Eurostat data update shown in workbook: 2026-10-22
+Selection: monthly frequency, unit Number (NR), country of residence FOR, EU27 member states
+Target: NACE I551-I553 (hotels; holiday and other short-stay accommodation; camping grounds, RV parks and trailer parks)
+Auxiliary lagged subseries: I551 (hotels) and I552_I553 (holiday and other short-stay accommodation; camping grounds etc.)
+EU27 countries extracted: 27
+Long panel rows: 8640; date range: 2000-01 to 2026-08
+Note: auxiliary accommodation categories are subseries of the same Eurostat dataset, not independent external data sources.
+Missing markers ':' are preserved as NaN; no zero-filling is performed.

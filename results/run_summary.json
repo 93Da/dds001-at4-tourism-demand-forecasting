@@ -1,0 +1,26 @@
+{
+  "dataset": "Eurostat tour_occ_nim, downloaded 2026-10-23; no network access during this run",
+  "selection": "EU27; FOR; unit NR; NACE I551-I553 target; I551 and I552_I553 lagged subseries as auxiliary feature families",
+  "unique_country_month_targets": 3564,
+  "feature_rows_across_horizons": 10692,
+  "observed_target_labels_2015_2021_per_horizon": 2218,
+  "gate_training_rows_2022_across_horizons": 945,
+  "gate_validation_rows_2023_across_horizons": 942,
+  "test_target_observations_per_horizon": 648,
+  "common_test_rows_by_horizon": {
+    "1": 648,
+    "3": 648,
+    "6": 647
+  },
+  "missing_target_values_2015_2025": 69,
+  "test_period": "2024-01 to 2025-12",
+  "horizons_months": [
+    1,
+    3,
+    6
+  ],
+  "expert_count": 3,
+  "gate_input_dim": 47,
+  "gate_best_epoch": 20,
+  "warning": "Simplified architecture pilot only: auxiliary accommodation series come from the same Eurostat table; no Google Trends, aviation, HICP, accommodation-capacity, or ERA5 external datasets. Results must not be described as a full replication of the six-source paper."
+}

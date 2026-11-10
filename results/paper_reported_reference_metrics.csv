@@ -1,0 +1,7 @@
+model,horizon_months,median_country_MASE
+Paper SG-MSF (reported),1,0.504
+Paper SG-MSF (reported),3,0.566
+Paper SG-MSF (reported),6,0.627
+Paper early-fusion LightGBM (reported),1,0.563
+Paper early-fusion LightGBM (reported),3,0.539
+Paper early-fusion LightGBM (reported),6,0.568

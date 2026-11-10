@@ -1,0 +1,16 @@
+{
+  "input_dim": 47,
+  "training_rows_2022": 945,
+  "validation_rows_2023": 942,
+  "best_epoch": 20,
+  "best_validation_smooth_l1": 0.03012850694358349,
+  "features": [
+    "3 normalized expert forecasts",
+    "27 country one-hot",
+    "12 month one-hot",
+    "3 horizon one-hot",
+    "time index",
+    "historical YoY growth"
+  ],
+  "limitations": "Gate trained on 2022 forecasts from yearly-refit experts; 2023 forecasts from the next annual refit are used for early stopping. This is simpler than the paper's expanding-window OOF gate training."
+}
